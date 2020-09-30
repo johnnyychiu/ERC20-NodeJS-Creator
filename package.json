@@ -1,0 +1,22 @@
+{
+  "name": "erc20creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.33",
+    "ganache-cli": "^6.9.1",
+    "mocha": "^7.1.1",
+    "solc": "^0.6.4",
+    "truffle-provider": "^0.1.16",
+    "web3": "^1.2.6"
+  }
+}
